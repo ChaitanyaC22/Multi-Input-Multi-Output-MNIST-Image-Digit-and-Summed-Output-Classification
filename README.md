@@ -54,7 +54,7 @@ The Jupyter IPython notebook **(MNIST_Image_Classification_and_Summed_Output_Pro
 **Four different custom modules are created in python (.py)** to address each aspect of the mentioned problem.
 1. Custom Module 1: **'helper_mnist.py'**: *Contains all the necessary helper functions or methods that are needed to plot graphs, vizualize images and optimize tensorflow sessions.*
 
-2. Custom Module 2: **'data_creation.py'**: *This module is used for pre-processing the data inputs and outputs in the desired format. (The random number inputs (0-9) along with the true image labels (0-9) and summed output true labels (0-18) are encoded in the proper format. Additionally, the model/network retrieves the MNIST image data via Image Data Generators, which are defined in this module.*
+2. Custom Module 2: **'data_creation.py'**: *This module is used for pre-processing the data inputs and outputs in the desired format. (The random number inputs (0-9) along with the true image labels (0-9) and summed output true labels (0-18) are encoded in the proper format. Additionally, the model/network retrieves the MNIST image data via Image Data Generators, which are defined in this module).*
 
 3. Custom Module 3: **'network_architecture.py'**: *This module is used to build the network architecture of the combined (MNIST + Summed Output) classification model.*
 
@@ -68,7 +68,7 @@ The Jupyter IPython notebook **(MNIST_Image_Classification_and_Summed_Output_Pro
 
 ### 3.4 Model Testing: Additional sample testing images and random number inputs
 
-**'Sample Test Images.zip':** contains additional sample test images (digit in-between 0-9) that were tested using the devised network along with additional random number inputs (digit in-between 0-9)
+**'Sample Test Images.zip':** *contains additional sample test images (digit in-between 0-9) that were tested using the devised network along with additional random number inputs (digit in-between 0-9)*
 
 ### **Test Results:**
 [![image](github_readme_images/sample_test_outputs.JPG)](github_readme_images/sample_test_outputs.JPG)
