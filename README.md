@@ -21,7 +21,7 @@ and gives two outputs:<br>
 ## 2. Project Understanding and Requirements
 
 ### 2.1 Understanding the MNIST Digit Image Dataset
-The MNIST *(Modified National Institute of Standards and Technology database)* is a large database of handwritten digits that is commonly used for training various image processing systems. It comprises images of handwritten digits, and has a training set of 60,000 examples, and a test set of 10,000 examples. The digits have been size-normalized and centered in a fixed-size image. Please click on this [dataset_link](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) to download the MNIST dataset.<br>
+The MNIST *(Modified National Institute of Standards and Technology database)* is a large database of handwritten digits that is commonly used for training various image processing systems. It comprises images of handwritten digits, and has a training set of 60,000 examples, and a test set of 10,000 examples. The digits have been size-normalized and centered in a fixed-size image. Please click on this [link](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) to download the MNIST dataset.<br>
 
 ### 2.2 Understanding the working of expected neural network
 A sample neural network could be<br>
