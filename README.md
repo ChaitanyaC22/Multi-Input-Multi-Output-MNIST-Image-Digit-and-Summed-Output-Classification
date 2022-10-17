@@ -58,9 +58,9 @@ The Jupyter IPython notebook **(MNIST_Image_Classification_and_Summed_Output_Pro
 4. Custom Module 4: **'evaluate_func.py'**: *This module comprises functions to pre-process test input, display model training and evaluation results.*
 
 ### 3.3 Saved Components
-**'model.zip':** *contains the best saved model along with its architecture*<br>
-**'model_plot':** *network architecture plot*<br>
-**'training_history.log':** *model training history log*<br>
+● **'model.zip':** *contains the best saved model along with its architecture*<br> <br>
+● **'model_plot.png':** *network architecture plot*<br> <br>
+● **'training_history.log':** *model training history log*<br> <br>
 
 
 ### 3.4 Model Testing: Additional sample testing images and random number inputs
