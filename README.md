@@ -1,6 +1,9 @@
 # Multi-Input-Multi-Output-MNIST-Image-Digit-and-Summed-Output-Classification
 
-## 1. Objective: Project Overview
+## 1. Project Overview
+
+### Objective:
+
 To write a neural network that can:<br>
 1. Take 2 inputs:<br>
 ● an image from the MNIST dataset (say 5), and<br>
