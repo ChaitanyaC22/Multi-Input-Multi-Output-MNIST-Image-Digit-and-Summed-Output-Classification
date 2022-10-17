@@ -7,7 +7,7 @@
 To write a neural network that can:<br>
 1. Take 2 inputs:<br>
 ● an image from the MNIST dataset (say 5), and<br>
-● a random number between 0 and 9, (say 8)<br><br>
+● a random number between 0 and 9, (say 8)<br>
 and gives two outputs:<br>
 ● the "number" that was represented by the MNIST image (predict 5), and<br>
 ● the "sum" of this number with the random number and the input image to the network (predict 5 + 8 = 13) <br>
