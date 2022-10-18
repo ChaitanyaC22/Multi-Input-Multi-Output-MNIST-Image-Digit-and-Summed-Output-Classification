@@ -74,6 +74,6 @@ The Jupyter IPython notebook **(MNIST_Image_Classification_and_Summed_Output_Pro
 [![image](github_readme_images/sample_test_outputs.JPG)](github_readme_images/sample_test_outputs.JPG)
 
 ## Jupyter Notebook Viewer
-If you are unable to view or load the jupyter IPython notebook via GitHub, please click on this [link](https://nbviewer.org/github/ChaitanyaC22/Multi-Input-Multi-Output-MNIST-Image-Digit-and-Summed-Output-Classification/blob/main/MNIST_Image_Classification_and_Summed_Output_Project.ipynb).
+If you are unable to view or load the jupyter IPython notebook via GitHub, please click on this [link]().
 
 Thank you for taking the time to visit this repository!
